@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: docsascode
+  description: Test for Spotify Backstage and TechDocs
+  tags:
+    - documentation
+spec:
+  type: service
+  lifecycle: production
+  owner: user:guest
