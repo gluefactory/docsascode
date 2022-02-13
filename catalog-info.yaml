@@ -9,3 +9,7 @@ spec:
   type: service
   lifecycle: production
   owner: user:guest
+  
+metadata:
+  annotations:
+    backstage.io/techdocs-ref: dir:.
