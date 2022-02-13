@@ -5,11 +5,11 @@ metadata:
   description: Test for Spotify Backstage and TechDocs
   tags:
     - documentation
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+
 spec:
   type: service
   lifecycle: production
   owner: user:guest
   
-metadata:
-  annotations:
-    backstage.io/techdocs-ref: dir:.
