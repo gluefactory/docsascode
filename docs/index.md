@@ -1,3 +1,3 @@
-# example docs
+# Running the fares simulator
 
-This is a basic example of documentation.
+You will need to have a Linux machine to do this, mwah, mwah, mwah
